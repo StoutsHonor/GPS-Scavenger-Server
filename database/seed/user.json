@@ -1,0 +1,62 @@
+[
+  {
+    "firstName": "Jen",
+    "lastName": "Tran",
+    "email": "jentran39@gmail.com",
+    "username": "bloopusername",
+    "profilePicture": "https://avatars0.githubusercontent.com/u/21377540?v=4&s=460",
+    "profileDescription": "i want ice cream with mah art",
+    "DOB": "1988-12-24",
+    "rewardPoints": 5000
+  },
+  {
+    "firstName": "Jeffrey",
+    "lastName": "Lee",
+    "email": "jeffrey.lee.0116@gmail.com",
+    "username": "brickbite",
+    "profilePicture": "https://avatars0.githubusercontent.com/u/21148168?v=4&s=460",
+    "profileDescription": "i draw people at hack reactor",
+    "DOB": "1988-11-21",
+    "rewardPoints": 3000
+  },
+  {
+    "firstName": "Kevin",
+    "lastName": "Tamarus",
+    "email": "kevintamarus@gmail.com",
+    "username": "runforestrun",
+    "profilePicture": "https://avatars0.githubusercontent.com/u/22313410?v=4&s=460",
+    "profileDescription": "i like apple cider",
+    "DOB": "1976-01-08",
+    "rewardPoints": 2000
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Nguyen",
+    "email": "miken619@gmail.com",
+    "username": "miken",
+    "profilePicture": "https://avatars0.githubusercontent.com/u/11468790?v=4&s=460",
+    "profileDescription": "flowers and seeds dawg",
+    "DOB": "1986-02-03",
+    "rewardPoints": 1000
+  },
+  {
+    "firstName": "Test",
+    "lastName": "Dummy",
+    "email": "test@gmail.com",
+    "username": "dummytestusername",
+    "profilePicture": "https://avatars0.githubusercontent.com/u/11468790?v=4&s=460",
+    "profileDescription": "oooo-raaaah!!!!",
+    "DOB": "2010-08-12",
+    "rewardPoints": 100
+  },
+  {
+    "firstName": "Ethan",
+    "lastName": "Fung",
+    "email": "test@gmail.com",
+    "username": "manwiththesplendor",
+    "profilePicture": "https://avatars0.githubusercontent.com/u/24540371?v=4&s=460",
+    "profileDescription": "reserve this card",
+    "DOB": "2010-08-12",
+    "rewardPoints": 4000
+  }
+]

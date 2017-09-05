@@ -1,0 +1,165 @@
+[
+  {
+    "name": "Guess this movie",
+    "description": "Do you know your superhero",
+    "gameId": 1,
+    "sequence": 1,
+    "location": [37.783692, -122.408967],
+    "timeLimit": 30,
+    "questionTypeId": 5,
+    "questionId": 1
+  },
+  
+  {
+    "name": "Guess this Photo",
+    "description": "Do you know your pokemon",
+    "gameId": 1,
+    "sequence": 2,
+    "location": [37.783692, -122.408967],
+    "timeLimit": 30,
+    "questionTypeId": 6,
+    "questionId": 4
+  },
+  {
+    "name": "The world's hardest riddle",
+    "description": "You'll never be able to solve this!!!",
+    "gameId": 1,
+    "sequence": 3,
+    "location": [37.783692, -122.408967],
+    "timeLimit": 30,
+    "questionTypeId": 2,
+    "questionId": 1
+  },
+  {
+    "name": "Save the forest",
+    "description": "It's tough to find trees in a desert",
+    "gameId": 1,
+    "sequence": 4,
+    "location": [37.783692, -122.408967],
+    "timeLimit": 30,
+    "questionTypeId": 4,
+    "questionId": 5
+  },
+  {
+    "name": "Riddle #1",
+    "description": "This is the first riddle",
+    "gameId": 2,
+    "sequence": 1,
+    "location": [37.783692, -122.408967],
+    "timeLimit": 30,
+    "questionTypeId": 2,
+    "questionId": 2
+  },
+  {
+    "name": "Riddle #2",
+    "description": "This is the second riddle",
+    "gameId": 2,
+    "sequence": 2,
+    "location": [37.783692, -122.408967],
+    "timeLimit": 30,
+    "questionTypeId": 2,
+    "questionId": 3
+  },
+  {
+    "name": "Riddle #3",
+    "description": "This is the third riddle",
+    "gameId": 2,
+    "sequence": 3,
+    "location":[37.783692, -122.408967],
+    "timeLimit": 30,
+    "questionTypeId": 2,
+    "questionId": 4
+  },
+  {
+    "name": "GPS #1",
+    "description": "This is the FIRST GPS coordinate",
+    "gameId": 3,
+    "sequence": 1,
+    "location": [37.783692, -122.408967],
+    "timeLimit": 30,
+    "questionTypeId": 1,
+    "questionId": 1
+  },
+  {
+    "name": "GPS #2",
+    "description": "This is the SECOND GPS coordinate",
+    "gameId": 3,
+    "sequence": 2,
+    "location": [33.812092, -117.918974],
+    "timeLimit": 30,
+    "questionTypeId": 1,
+    "questionId": 2
+  },
+  {
+    "name": "GPS #3",
+    "description": "This is the THIRD GPS coordinate",
+    "gameId": 3,
+    "sequence": 2,
+    "location": [32.715738, -117.161084],
+    "timeLimit": 30,
+    "questionTypeId": 1,
+    "questionId": 3
+  },
+  {
+    "name": "MIXED GAME CHALLENGE #1",
+    "description": "GPS - this is the first mixed game challenge - Tijuana",
+    "gameId": 5,
+    "sequence": 1,
+    "location": [32.741112, -117.3891787]
+  },
+  {
+    "name": "MIXED GAME CHALLENGE #2",
+    "description": "Riddle - this is the second mixed game challenge",
+    "gameId": 5,
+    "sequence": 2,
+    "timeLimit": 30,
+    "questionTypeId": 2,
+    "questionId": 2
+  },
+  {
+    "name": "MIXED GAME CHALLENGE #3",
+    "description": "GPS - this is the third mixed game challenge - Carlsbad",
+    "gameId": 5,
+    "sequence": 3,
+    "location": [33.178641, -117.342653]
+  },
+  {
+    "name": "MIXED GAME CHALLENGE #4",
+    "description": "Riddle - this is the fourth mixed game challenge",
+    "gameId": 5,
+    "sequence": 4,
+    "timeLimit": 30,
+    "questionTypeId": 2,
+    "questionId": 3
+  }, 
+  {
+    "name": "MIXED GAME CHALLENGE #5",
+    "description": "Video - Do you know your superhero",
+    "gameId": 5,
+    "sequence": 5,
+    "location": [37.783692, -122.408967],
+    "timeLimit": 30,
+    "questionTypeId": 5,
+    "questionId": 1
+  },
+  {
+    "name": "MIXED GAME CHALLENGE #6",
+    "description": "Guess this Photo - Do you know your pokemon",
+    "gameId": 5,
+    "sequence": 6,
+    "location": [37.783692, -122.408967],
+    "timeLimit": 30,
+    "questionTypeId": 6,
+    "questionId": 4
+  },
+  {
+    "name": "MIXED GAME CHALLENGE #7",
+    "description": "Camera - It's tough to find trees in a desert",
+    "gameId": 5,
+    "sequence": 7,
+    "location": [37.783692, -122.408967],
+    "timeLimit": 30,
+    "questionTypeId": 4,
+    "questionId": 5
+  }
+]
